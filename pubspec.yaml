@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   curved_navigation_bar: ^1.0.3
   flutter_gradients_reborn: ^1.0.0+7
+  google_fonts: ^5.1.0
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.9.0
 
 dev_dependencies:
   flutter_test:

@@ -1,5 +1,7 @@
 # <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=36&duration=2000&pause=300&color=F703B5&center=true&vCenter=true&multiline=true&width=560&height=100&lines=Google+AI+%2B+Square+hackathon+entry;By+Julia+Pak)](https://git.io/typing-svg)</p>
 
+This is a mobile app developed using the flutter sdk! It is a mobile app that uses AI to detect the type of coffee you are drinking. It also allows you to pay for your coffee using Square payments.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit amet mauris commodo quis imperdiet. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Ac tortor vitae purus faucibus ornare suspendisse sed nisi. Netus et malesuada fames ac turpis egestas sed. Eros donec ac odio tempor orci dapibus. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Elementum sagittis vitae et leo. Pretium quam vulputate dignissim suspendisse in est ante. Consectetur lorem donec massa sapien faucibus et.
 
 <p align="center"><img alt="app icon" src="https://github.com/iNeedHelpX/coffeesoc/assets/41366455/53641419-a56b-4494-9067-ab945d4a8cda" width="250"><br><sup><em>App icon</sup></em></p>
