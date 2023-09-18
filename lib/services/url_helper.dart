@@ -15,13 +15,9 @@ class UrlHelper {
 
 //updated class
 class UrlHelp {
-  static Future<void> launchUrl(String url) async {
+  static Future<void> launchThisUrl(String url) async {
     if (await canLaunchUrlString(url)) {
-      await launchUrl(
-        url,
-        java,
-        enableJavaScript: true,
-      );
+      await launchUrl(url, enableJavaScript: true);
     }
   }
 }
