@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "923179621431",
+    "project_id": "squareai-dca2a",
+    "storage_bucket": "squareai-dca2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923179621431:android:99664cb9d25d02d4bb33b2",
+        "android_client_info": {
+          "package_name": "com.juliapak.squaregoogleai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923179621431-ks80reh666bc5q4cpbfahuqsj744er66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqOCV24fFqseRplP9kpKEEaqhVvwJKN4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923179621431-ks80reh666bc5q4cpbfahuqsj744er66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923179621431-9405nhdv1ea7pfshosai2rsrto1a66fv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juliapak.squaregoogleai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
